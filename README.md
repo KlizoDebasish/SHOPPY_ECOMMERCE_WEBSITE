@@ -11,9 +11,13 @@ Experience the live version of the Portfolio Website here: [Live Demo](https://k
 
 ### Screenshots
 
-![shoppy Website Screenshot] 
+## Home Page 
 ![Screenshot (8)](https://github.com/user-attachments/assets/f8725307-016a-4b4a-9a25-762ccc7fa95e)
+
+## Products Page
 ![Screenshot (9)](https://github.com/user-attachments/assets/4edd2bd1-83fa-4755-9503-ccc1eb1d00d8)
+
+## Shopping Cart Page
 ![Screenshot (10)](https://github.com/user-attachments/assets/9c96a778-e7d3-4425-9aff-7235b882f046)
 
 
